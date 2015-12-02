@@ -1,3 +1,8 @@
+//Jennifer Yu
+//APCS1 pd9
+//HW39 -- Array of Steel
+//2015-12-01
+
 /*****************************
  * SKELETON for
  * class SuperArray --  A wrapper class for an array. 
